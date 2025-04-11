@@ -1,0 +1,87 @@
+{
+  "configVersion": 1,
+  "timestamp": 1744362011312,
+  "index": "/notki/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/notki/chunk-353OIPNJ.js",
+        "/notki/chunk-46CLHXEC.js",
+        "/notki/chunk-BH3NIRLV.js",
+        "/notki/chunk-GTE3DQD6.js",
+        "/notki/favicon.ico",
+        "/notki/index.html",
+        "/notki/main-TQK46BGH.js",
+        "/notki/manifest.webmanifest",
+        "/notki/polyfills-FFHMD2TL.js",
+        "/notki/styles-A7AUTOWU.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/notki/icons/icon-128x128.png",
+        "/notki/icons/icon-144x144.png",
+        "/notki/icons/icon-152x152.png",
+        "/notki/icons/icon-192x192.png",
+        "/notki/icons/icon-384x384.png",
+        "/notki/icons/icon-512x512.png",
+        "/notki/icons/icon-72x72.png",
+        "/notki/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/notki/chunk-353OIPNJ.js": "9528b9c14d005f03ce806cbc49fe30285e70d068",
+    "/notki/chunk-46CLHXEC.js": "5a3bfc391c1f72dfd0a3eb6f6059ceaf98423df9",
+    "/notki/chunk-BH3NIRLV.js": "5dab76860e0791e618a80abec99d8c62d6be954f",
+    "/notki/chunk-GTE3DQD6.js": "4a6cfbe6023e87ddc61aaa8442de85f8b37bad33",
+    "/notki/favicon.ico": "20c23b559539f65b26e76b57e6e0faa172e9c66a",
+    "/notki/icons/icon-128x128.png": "02269fd6bd112bdaa4d3539c1a094197d848c851",
+    "/notki/icons/icon-144x144.png": "5f9f61c00f5c92d384d1ceedf0a3b31249cb501e",
+    "/notki/icons/icon-152x152.png": "798e004417c57f552394ba2aba706aafd5023097",
+    "/notki/icons/icon-192x192.png": "1b6c209164d05ee7cef32e3d65afc79c9ed58605",
+    "/notki/icons/icon-384x384.png": "01641c9aac4c60f862d65ba4ef409d3f50ddf62b",
+    "/notki/icons/icon-512x512.png": "9368ede0a20ca2820644750b9fd62321732a5b78",
+    "/notki/icons/icon-72x72.png": "5141b0e043772224fe44e28e6d61844f02a4691c",
+    "/notki/icons/icon-96x96.png": "1ed7b49e1b4ea793e45cf4397132e17ba42e4708",
+    "/notki/index.html": "cbca3940acc4dbb3434659bc6126a208a3b13e65",
+    "/notki/main-TQK46BGH.js": "84bcfb8f0ca387d819673404570cd40dffe41285",
+    "/notki/manifest.webmanifest": "c18593e404984b394f72ac13662a050c5f861b26",
+    "/notki/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "/notki/styles-A7AUTOWU.css": "7f5977d43b136a74095843b9802c121fb6f01ac6"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
