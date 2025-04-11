@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1744389103430,
+  "timestamp": 1744389378884,
   "index": "/notki/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
+        "/notki/chunk-5U4TV727.js",
         "/notki/chunk-A3C2T7C7.js",
         "/notki/chunk-HY74IRL2.js",
-        "/notki/chunk-XDUSIUPH.js",
         "/notki/chunk-XVE5IWEF.js",
         "/notki/favicon.ico",
         "/notki/index.html",
-        "/notki/main-CE36JMLO.js",
+        "/notki/main-MBSGZSHO.js",
         "/notki/manifest.webmanifest",
         "/notki/polyfills-FFHMD2TL.js",
         "/notki/styles-A7AUTOWU.css"
@@ -46,9 +46,9 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/notki/chunk-5U4TV727.js": "1d1470920559fb363bfdc1fd95c293e3bd286c21",
     "/notki/chunk-A3C2T7C7.js": "febad933c3d2916574cb258931b3fb6498b2c042",
     "/notki/chunk-HY74IRL2.js": "638546b43392afec8d334c5b0911a99497beac9f",
-    "/notki/chunk-XDUSIUPH.js": "d6eddff2913abfa5b87bd916c0656b0b8e166844",
     "/notki/chunk-XVE5IWEF.js": "d0f0a347273170c9e60b1e6e8f49ff21076b34c2",
     "/notki/favicon.ico": "20c23b559539f65b26e76b57e6e0faa172e9c66a",
     "/notki/icons/icon-128x128.png": "02269fd6bd112bdaa4d3539c1a094197d848c851",
@@ -59,8 +59,8 @@
     "/notki/icons/icon-512x512.png": "9368ede0a20ca2820644750b9fd62321732a5b78",
     "/notki/icons/icon-72x72.png": "5141b0e043772224fe44e28e6d61844f02a4691c",
     "/notki/icons/icon-96x96.png": "1ed7b49e1b4ea793e45cf4397132e17ba42e4708",
-    "/notki/index.html": "931421b91a476d8d406e554e474522ef56752db3",
-    "/notki/main-CE36JMLO.js": "9afdd3b6a27239df8ba6bd707b10837cf652b286",
+    "/notki/index.html": "8a351ee3cd13bdaf32821cf36066ad5839223222",
+    "/notki/main-MBSGZSHO.js": "69a73ffdcaa57c2fa947a8a97ebb843cdf7f1db6",
     "/notki/manifest.webmanifest": "c18593e404984b394f72ac13662a050c5f861b26",
     "/notki/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/notki/styles-A7AUTOWU.css": "7f5977d43b136a74095843b9802c121fb6f01ac6"
